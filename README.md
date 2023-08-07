@@ -10,7 +10,7 @@ telegram: @MillaDom
 
 ***[1. Graduation project for the "Software Tester" profession](https://github.com/MillaDom/QA_Diploma/tree/main)***
 
-Within the scope of the graduation project, I:
+Within the scope of the graduation project:
 
 - Set up application dockerization with support for two DBMS (MySQL and PostgreSQL).
 - Conducted exploratory testing of the functionality for purchasing a tour on the "Travel of the Day" web service.
@@ -21,7 +21,7 @@ Within the scope of the graduation project, I:
 
 ***[2. Team project for the "Java for Testers" course](https://github.com/MillaDom/javaqa-team-diplom)***
 
-Within the scope of the team project, I:
+Within the scope of the team project:
 
 - Wrote 24 unit tests for the codebase of an application to track gaming activity.
 - Submitted 5 bug reports for identified defects and 1 improvement suggestion for enhancing the testability of the code.
@@ -38,6 +38,8 @@ Within the coursework for manual testing of the website https://henderson.ru/ (a
 - Developed a set of [17 test cases](https://docs.google.com/spreadsheets/d/1MIDqUWYhTu2WJbXlz9YtMZ95j3qmGy4irqtqGTw32Yg/edit#gid=0) derived from the above specifications.
 - Submitted 3 bug reports regarding defects in the search functionality and product reviews.
 - Conducted testing of the website's layout and studied the structure of POST requests using DevTools.
+
+### Diplomas and certificates
 
 <!--
 **MillaDom/MillaDom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
