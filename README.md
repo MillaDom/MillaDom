@@ -55,3 +55,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[certificate_Python.pdf](https://github.com/MillaDom/MillaDom/files/12300570/certificate_Python.pdf)
+[certificate_Java.pdf](https://github.com/MillaDom/MillaDom/files/12300569/certificate_Java.pdf)
+[certificate_HTML.pdf](https://github.com/MillaDom/MillaDom/files/12300567/certificate_HTML.pdf)
+[certificate_GIT.pdf](https://github.com/MillaDom/MillaDom/files/12300566/certificate_GIT.pdf)
+[certificate_AutomatedTesting.pdf](https://github.com/MillaDom/MillaDom/files/12300565/certificate_AutomatedTesting.pdf)
+[certificate_Ручное_тестирование.pdf](https://github.com/MillaDom/MillaDom/files/12300564/certificate_._.pdf)
