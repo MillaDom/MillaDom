@@ -39,7 +39,7 @@ telegram: @MillaDom
 - Проведено тестирование верстки и изучение структуры POST запросов при помощи DevTools.
 
 
-### Diplomas and certificates
+### Дипломы и сертификаты
 - Диплом профессиональной переподготовки по программе "Тестировщик".
 - [Автоматизация тестирования](https://github.com/MillaDom/Certificates/blob/main/certificate_AutomatedTestings.png)
 - [Ручное тестирование](https://github.com/MillaDom/Certificates/blob/main/certificate_ManualTestings.png)
