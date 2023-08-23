@@ -23,7 +23,7 @@ telegram: @MillaDom
 
 ***[2. Командный проект по модулю "Java для тестировщиков"](https://github.com/MillaDom/javaqa-team-diplom)***
 
-- Написала 22 юнит теста кода приложения для трекинга игровой активности.
+- Написала 22 юнит-теста кода приложения для трекинга игровой активности.
 - Оформила 6 баг-репортов по найденным дефектам и 1 предложение по улучшению testability кода.
 - Исправила код приложения по 5 баг-репортам, оформленным другим участником команды.
 - Подключила и настроила систему CI (GitHub Actions).
@@ -40,7 +40,7 @@ telegram: @MillaDom
 
 
 ### Diplomas and certificates
-- Диплом профессиональной переподготовки.
+- Диплом профессиональной переподготовки по программе "Тестировщик".
 - [Автоматизация тестирования](https://github.com/MillaDom/Certificates/blob/main/certificate_AutomatedTestings.png)
 - [Ручное тестирование](https://github.com/MillaDom/Certificates/blob/main/certificate_ManualTestings.png)
 - [HTML&CSS](https://github.com/MillaDom/Certificates/blob/main/certificate_HTMLs.png)
