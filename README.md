@@ -46,6 +46,7 @@ telegram: @MillaDom
 - [GIT](https://github.com/MillaDom/Certificates/blob/main/certificate_GITs.png)
 - [JAVA](https://github.com/MillaDom/Certificates/blob/main/certificate_Javas.png)
 - [Python](https://github.com/MillaDom/Certificates/blob/main/certificate_Pythons.png)
+- [SQL](https://github.com/MillaDom/Certificates/blob/main/certificate_SQL.png)
 
 ### About
 I am **Mila Domogatskaya**, a beginner in automated/manual testing. I am actively seeking opportunities to start working in the IT field. Leveraging my previous experience, I am particularly interested in projects related to finance or printing, while also exploring other diverse and challenging domains within the IT industry.
@@ -95,7 +96,7 @@ Within the coursework for manual testing of the website https://henderson.ru/ (a
 - [GIT](https://github.com/MillaDom/Certificates/blob/main/certificate_GITs.png)
 - [JAVA](https://github.com/MillaDom/Certificates/blob/main/certificate_Javas.png)
 - [Python](https://github.com/MillaDom/Certificates/blob/main/certificate_Pythons.png)
-
+- [SQL](https://github.com/MillaDom/Certificates/blob/main/certificate_SQL.png)
 
 <!--
 **MillaDom/MillaDom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
