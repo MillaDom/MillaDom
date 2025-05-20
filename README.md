@@ -39,7 +39,7 @@ telegram: @MillaDom
 
 
 ### Дипломы и сертификаты
-- Диплом профессиональной переподготовки по программе "Тестировщик".
+- [Диплом профессиональной переподготовки по программе "Тестировщик"](https://github.com/MillaDom/Certificates/blob/main/Diploma_Netology.jpg)
 - [Автоматизация тестирования](https://github.com/MillaDom/Certificates/blob/main/certificate_AutomatedTestings.png)
 - [Ручное тестирование](https://github.com/MillaDom/Certificates/blob/main/certificate_ManualTestings.png)
 - [HTML&CSS](https://github.com/MillaDom/Certificates/blob/main/certificate_HTMLs.png)
