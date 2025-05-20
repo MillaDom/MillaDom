@@ -90,6 +90,7 @@ Within the coursework for manual testing of the website https://henderson.ru/ (a
 - Conducted testing of the website's layout and studied the structure of POST requests using DevTools.
 
 ### Diplomas and certificates
+- [Professional Retraining Diploma](https://github.com/MillaDom/Certificates/blob/main/Diploma_Netology.jpg)
 - [Automated testing](https://github.com/MillaDom/Certificates/blob/main/certificate_AutomatedTestings.png)
 - [Manual testing](https://github.com/MillaDom/Certificates/blob/main/certificate_ManualTestings.png)
 - [HTML&CSS](https://github.com/MillaDom/Certificates/blob/main/certificate_HTMLs.png)
