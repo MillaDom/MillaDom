@@ -1,5 +1,5 @@
 ### Привет!
-Я **Мила Домогатская**, начинающий тестировщик с опытом работы в финтехкомпании. Помимо опыта ручного тестирования, обладаю разнообразным опытом в издательской индустрии, полиграфическом производстве, финансовой аналитике и биржевой торговле. Умею и люблю учиться, обладаю грамотной устной и письменной речью, усидчива, педантична. Способна определять сроки выполняемой работы и пунктуально их соблюдать. С нетерпением жду возможности присоединиться к динамичной команде и внести свой вклад в качество программного продукта.
+Я **Мила Домогатская**, тестировщик с опытом тестирования приложений в области финансов. Помимо опыта ручного тестирования, обладаю разнообразным опытом в издательской индустрии, полиграфическом производстве, финансовой аналитике и биржевой торговле. Умею и люблю учиться, обладаю грамотной устной и письменной речью, усидчива, педантична. Способна определять сроки выполняемой работы и пунктуально их соблюдать. С нетерпением жду возможности присоединиться к динамичной команде и внести свой вклад в качество программного продукта.
 
 ### Контакты
 email: milladom@gmail.com  
@@ -49,7 +49,7 @@ telegram: @MillaDom
 - [SQL](https://github.com/MillaDom/Certificates/blob/main/certificate_SQL.png)
 
 ### About
-I am **Mila Domogatskaya**, a beginner in automated/manual testing. I am actively seeking opportunities to start working in the IT field. Leveraging my previous experience, I am particularly interested in projects related to finance or printing, while also exploring other diverse and challenging domains within the IT industry.
+I am **Mila Domogatskaya**, an entry-level QA tester with experience in a fintech company. In addition to manual testing experience, I have diverse experience in the publishing industry, printing production, financial analytics, and stock trading. I am a fast learner who enjoys acquiring new skills, possess strong verbal and written communication abilities, and I am diligent and detail-oriented. I can effectively estimate task durations and consistently meet deadlines. I eagerly look forward to the opportunity to join a dynamic team and contribute to the quality of the software product.
 
 ### Contact
 email: milladom@gmail.com  
